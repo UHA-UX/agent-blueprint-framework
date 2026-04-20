@@ -1,12 +1,12 @@
 # Agent Blueprint Framework
 
-A design-to-engineering handoff tool that helps PMs and designers author structured Salesforce Agent blueprints, then export engineering-ready packages aligned with real Agent metadata.
+A design-to-engineering handoff tool that helps PMs and designers author structured Agent blueprints, then export engineering-ready packages aligned with real Agent metadata.
 
 ---
 
 ## Executive Summary
 
-Building Agents today requires PMs and designers to bridge a significant gap between human-centered design intent and the technical metadata engineers need (Bot definitions, GenAiPlugins, Actions, Flows). This framework closes that gap.
+Building Agents today requires designers to bridge a significant gap between human-centered design intent and the technical metadata engineers need (Bot definitions, GenAiPlugins, Actions, Flows). This framework closes that gap.
 
 **Agent Blueprint Framework** provides a guided, four-phase workflow where non-technical stakeholders define an agent's charter, design its logic, script its conversation flow, and produce a handoff package without writing code. LLM integration accelerates each phase by extracting structure from PRDs, generating logic plans and scripts, reviewing blueprints for completeness, and optimizing against Agent best practices.
 
