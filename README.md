@@ -1,6 +1,6 @@
 # Agent Blueprint Framework
 
-A design-to-engineering handoff tool that helps PMs and designers author structured Agent blueprints, then export engineering-ready packages aligned with real Agent metadata.
+A design-to-engineering handoff tool that helps designers author structured Agent blueprints, then export engineering-ready packages aligned with real Salesforce Agentforce metadata.
 
 ---
 
